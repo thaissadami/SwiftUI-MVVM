@@ -1,0 +1,6 @@
+framework module Pods_PocUIPix {
+  umbrella header "Pods-PocUIPix-umbrella.h"
+
+  export *
+  module * { export * }
+}

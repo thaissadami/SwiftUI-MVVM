@@ -1,0 +1,22 @@
+${PODS_ROOT}/Target Support Files/Pods-PocUIPix/Pods-PocUIPix-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/AlamofireNetworkActivityIndicator/AlamofireNetworkActivityIndicator.framework
+${BUILT_PRODUCTS_DIR}/KeychainAccess/KeychainAccess.framework
+${BUILT_PRODUCTS_DIR}/Kingfisher/Kingfisher.framework
+${BUILT_PRODUCTS_DIR}/SwiftyRSA/SwiftyRSA.framework
+${BUILT_PRODUCTS_DIR}/TPKeyboardAvoiding/TPKeyboardAvoiding.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/MCIKit/MCIAuth.framework/MCIAuth
+${PODS_XCFRAMEWORKS_BUILD_DIR}/MCIKit/MCICheckoutCore.framework/MCICheckoutCore
+${PODS_XCFRAMEWORKS_BUILD_DIR}/MCIKit/MCIDigitalCheckout.framework/MCIDigitalCheckout
+${PODS_XCFRAMEWORKS_BUILD_DIR}/MCIKit/MCIFoundation.framework/MCIFoundation
+${PODS_XCFRAMEWORKS_BUILD_DIR}/MCIKit/MCIIssuerViewerCore.framework/MCIIssuerViewerCore
+${PODS_XCFRAMEWORKS_BUILD_DIR}/MCIKit/MCIKit.framework/MCIKit
+${PODS_XCFRAMEWORKS_BUILD_DIR}/MCIKit/MCILogger.framework/MCILogger
+${PODS_XCFRAMEWORKS_BUILD_DIR}/MCIKit/MCIProfile.framework/MCIProfile
+${PODS_XCFRAMEWORKS_BUILD_DIR}/MCIKit/MerciKit.framework/MerciKit
+${PODS_XCFRAMEWORKS_BUILD_DIR}/MarketPlaceKit/MCIMarketpay.framework/MCIMarketpay
+${PODS_XCFRAMEWORKS_BUILD_DIR}/MarketPlaceKit/MarketPlaceKit.framework/MarketPlaceKit
+${PODS_XCFRAMEWORKS_BUILD_DIR}/PayKit/MCIStorePayment.framework/MCIStorePayment
+${PODS_XCFRAMEWORKS_BUILD_DIR}/PayKit/PayKit.framework/PayKit
+${PODS_XCFRAMEWORKS_BUILD_DIR}/WithdrawalKit/MCIWithdrawal.framework/MCIWithdrawal
+${PODS_XCFRAMEWORKS_BUILD_DIR}/WithdrawalKit/WithdrawalKit.framework/WithdrawalKit

@@ -50,7 +50,7 @@ struct LoginView: View {
                     TextField("Telefone com DDD", text: model.bindings.phoneNumber)
                 }.padding(20)
                 
-                MCIFilledButton(action: {}) {
+                MCIFilledButton(action: model.login) {
                     Text("Continuar")
                 }
                 .padding()
@@ -75,12 +75,6 @@ struct LoginView: View {
             Text("Fechar")
         }
         .disabled(model.state.canSubmit)
-    }
-    
-    private var formFooter: some View {
-        Group {
-            Text(model.state.footerMessage)
-        }
     }
 }
 
